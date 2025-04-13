@@ -1,6 +1,7 @@
 # Cervical Cancer Biopsy Risk Prediction using Deep Learning
 
-([image](https://github.com/user-attachments/assets/782dc420-0a80-4ede-a49a-9de22ec6e882)
+![image](https://github.com/user-attachments/assets/2919795c-36cd-4ee7-8d30-3bce2c57ec13)
+
 
 
 **Dataset Source:** https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors
