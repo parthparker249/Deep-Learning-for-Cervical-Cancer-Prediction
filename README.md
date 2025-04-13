@@ -1,6 +1,7 @@
 # Cervical Cancer Biopsy Risk Prediction using Deep Learning
 
-![Cervical Cancer Prediction](https://img.freepik.com/premium-photo/hologram-female-organ-uterus-tablet-ultrasound-concept-gynecology-obstetrics-pregnancy-modern-medicine_15342465.htm)
+![Cervical Cancer Prediction](![image](https://github.com/user-attachments/assets/782dc420-0a80-4ede-a49a-9de22ec6e882)
+)
 
 **Dataset Source:** https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors
 
