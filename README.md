@@ -6,11 +6,16 @@
 
 **Dataset Source:** https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors
 
-**Author List:**
+**Author List:** 
+
 [-Parth Parker](https://github.com/parthparker249/parthparker249/blob/main/README.md)
-[]
-[]
-[]
+
+[-Stefan]
+
+[-Max]
+
+[-Lucas]
+
 ---
 
 
@@ -82,7 +87,10 @@ This project successfully developed a neural network model for predicting biopsy
 - Fine-tune architecture and hyperparameters
 - Explore integration with electronic health record systems
 
-> "Early detection saves lives. Deep learning gives us a powerful tool to make that possible."
+**"Early detection saves lives. Deep learning gives us a powerful tool to make that possible."**
+
+## Research Citations
+1. Gupta A, Parveen A, Kumar A, Yadav P. Advancement in Deep Learning Methods for Diagnosis and Prognosis of Cervical Cancer. Curr Genomics. 2022 Aug 11;23(4):234-245. doi: 10.2174/1389202923666220511155939. PMID: 36777879; PMCID: PMC9875539.
 
 ---
 
