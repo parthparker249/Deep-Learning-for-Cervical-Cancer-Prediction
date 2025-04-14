@@ -75,8 +75,31 @@ Cervical cancer remains a major global health issue. HPV (Human papillomavirus) 
 
 ## NOTABLE INSIGHTS
 - Key Predictive Features: HPV presence, number of sexual partners, STD history, smoking habits
-- High classification accuracy (approx. XX% on test data)
+- High classification accuracy (approx. 95% on test data)
 - Consistent validation curves with low overfitting
+
+## RESPONSIBLE AI CONSIDERATIONS
+Building AI solutions in the healthcare domain requires a deep commitment to ethical and responsible development. This model incorporates several key Responsible AI principles:
+
+⚖️ Fairness
+The dataset was carefully preprocessed to minimize bias caused by missing or skewed data. 
+
+However, due to geographical, demographic, and socioeconomic limitations of the source data (patients from a single hospital in Venezuela), the model may not generalize well across populations without further validation.
+
+🔐 Privacy
+Only de-identified, publicly available data was used.
+
+All processing and modeling were done in accordance with ethical use of data for research and non-commercial purposes.
+
+⚠️ Risk Mitigation
+The model is intended as a decision-support tool, not a diagnostic authority.
+
+False negatives (missed high-risk cases) are a key concern. Thresholds and risk scoring should be carefully managed in deployment settings.
+
+📍 Accountability
+Continuous monitoring and auditing of model performance is essential if deployed in real-world environments.
+
+The development team holds responsibility for transparently communicating limitations and working closely with domain experts (e.g., gynecologists) for validation.
 
 ## CONCLUSION
 This project successfully developed a neural network model for predicting biopsy outcomes related to cervical cancer risk. By analyzing clinical and behavioral data, the model demonstrated strong predictive performance and potential for integration into healthcare tools for early detection and prevention strategies.
