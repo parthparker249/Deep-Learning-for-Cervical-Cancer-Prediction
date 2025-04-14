@@ -10,11 +10,11 @@
 
 [-Parth Parker](https://github.com/parthparker249/parthparker249/blob/main/README.md)
 
-[-Stefan]
+[-Stefan](https://github.com/stefanngoh/stefanngoh/blob/main/README.md)
 
-[-Max]
+[-Max](https://github.com/maxpietrykowski/maxpietrykowski/blob/main/README.md)
 
-[-Lucas]
+[-Lucas](https://github.com/Lacarmichael/README.md/blob/main/README.md)
 
 ---
 
