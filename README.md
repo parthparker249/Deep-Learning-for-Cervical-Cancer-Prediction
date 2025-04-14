@@ -6,6 +6,9 @@
 
 **Dataset Source:** https://archive.ics.uci.edu/dataset/383/cervical+cancer+risk+factors
 
+**Author List:**
+[-Parth Parker](https://github.com/parthparker249/parthparker249/blob/main/README.md)
+
 ---
 
 
